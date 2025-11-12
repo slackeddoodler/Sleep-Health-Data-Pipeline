@@ -129,14 +129,18 @@ cd sleep-health-data-pipeline
 
 ---
 
-### 3. Start Airflow
+### 3. Initialize and Start Airflow
+```bash
+astro dev init
+```
+
 ```bash
 astro dev start
 ```
 
 Once running:
 
-* Airflow UI → [http://localhost:8081](http://localhost:8081)
+* Airflow UI → [http://localhost:8080](http://localhost:8080)
 
 ---
 
