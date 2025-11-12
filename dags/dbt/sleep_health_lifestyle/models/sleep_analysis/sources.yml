@@ -1,0 +1,7 @@
+version: 2
+
+sources:
+  - name: main         # schema (for DuckDB this can just be 'main')
+    tables:
+      - name: sleep_health
+        description: "Raw dataset loaded from CSV"
