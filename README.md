@@ -111,14 +111,7 @@ sleep-health-data-pipeline/
 
 ## 🪜 Setup Instructions (Windows)
 
-#### 1. Clone the Repository
-
-```bash
-git clone https://github.com/slackeddoodler/sleep-health-data-pipeline.git
-cd sleep-health-data-pipeline
-```
-
----
+### 1. Clone or Download the Repository
 
 ### 2. Install Prerequisites
 
@@ -127,7 +120,6 @@ cd sleep-health-data-pipeline
 * [Python 3.12+](https://www.python.org/downloads/)
 * [Git](https://git-scm.com/)
 
----
 
 ### 3. Initialize and Start Airflow
 ```bash
